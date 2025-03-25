@@ -12,28 +12,28 @@ Before joining UoM, I earned a BEng from Jilin University and an MEng from Centr
 
 Professional Appointments 
 ======
-* 2024-   
+* **2024-**
 Graduate Teaching Assistant  
 The University of Manchester, UK  
-CIVL10212; CIVL12201; CIVL31001; CIVL35001  
-* 2023-2024  
+_CIVL10212; CIVL12201; CIVL31001; CIVL35001_  
+* **2023-2024** 
 Visiting Researcher  
 GFZ Helmholtz Centre for Geosciences, Germany  
-* 2022-2023  
+* **2022-2023**  
 Graduate Teaching Assistant  
 University of Glasgow, UK  
-ENG2080; ENG4072  
+_ENG2080; ENG4072_   
 
 Publications(*: Corresponding Author) 
 ======
-[1]	Ling, F., Kong, L., Shang, J. (2025). Influence of Mineral Veins on Hydraulic Fracture Propagation. Rock Mechanics and Rock Engineering. DOI: 10.1007/s00603-025-04402-1  
-[2]	Ling, F., Wang, S., Hu, Q., Huang, S., Feng, Z. (2022). Effect of bentonite slurry on the function of foam for changing the permeability characteristics of sand under high hydraulic gradients. Canadian Geotechnical Journal. 59(7): 1061-1070. DOI: 10.1139/cgj-2021-0196  
-[3]	Ling, F., Wang, S., Zheng, X., Zhong, J., Chen, Y. (2024). A Novel Calculation Model for the Permeability Coefficient of Soils Conditioned with Foam and Bentonite Slurry. KSCE Journal of Civil Engineering. 28(5): 2053-2065. DOI: 10.1007/s12205-024-2017-0  
-[4]	Wang, S., Ling, F.*, Hu, Q., Qu, T., Shang, J. (2024). Effect of water pressure on time-dependent permeability characteristics of sand conditioned with foam and bentonite slurry. Canadian Geotechnical Journal. 62: 1-14. DOI: 10.1139/cgj-2023-0497  
-[5]	Medici, G., Ling, F., Shang, J. (2023). Review of discrete fracture network characterization for geothermal energy extraction. Frontiers in Earth Science. 11: 1328397. DOI: 10.3389/feart.2023.1328397  
-[6]	Feng, Z., Wang, S., Qu, T., Zheng, X., Ling, F. (2024). Experimental study on workability and permeability of sandy soils conditioned with thickened foam. Journal of Rock Mechanics and Geotechnical Engineering. 16(2): 532-544. DOI: 10.1016/j.jrmge.2023.05.015  
-[7]	Wang, S., Zhong, J., Pan, Q., Qu, T., Ling, F. (2023). Shear behavior of foam-conditioned gravelly sands: Insights from pressurized vane shear tests. Geomechanics and Engineering. 34(6): 637-648. DOI: 10.12989/gae.2023.34.6.637  
-[8]	Kong, L., Shang, J., Gamage, R. P., Li, B. Q., Song, Y., Cai, W., Ling, F. (2024). Grain-based DEM modelling of mechanical and coupled hydro-mechanical behaviour of crystalline rocks. Engineering Geology, 107649. DOI: 10.1016/j.enggeo.2024.107649  
+[1]	___Ling, F.___, Kong, L., Shang, J. (2025). Influence of Mineral Veins on Hydraulic Fracture Propagation. Rock Mechanics and Rock Engineering. DOI: 10.1007/s00603-025-04402-1  
+[2]	___Ling, F.___, Wang, S., Hu, Q., Huang, S., Feng, Z. (2022). Effect of bentonite slurry on the function of foam for changing the permeability characteristics of sand under high hydraulic gradients. Canadian Geotechnical Journal. 59(7): 1061-1070. DOI: 10.1139/cgj-2021-0196  
+[3]	___Ling, F.___, Wang, S., Zheng, X., Zhong, J., Chen, Y. (2024). A Novel Calculation Model for the Permeability Coefficient of Soils Conditioned with Foam and Bentonite Slurry. KSCE Journal of Civil Engineering. 28(5): 2053-2065. DOI: 10.1007/s12205-024-2017-0  
+[4]	Wang, S., ___Ling, F.*___, Hu, Q., Qu, T., Shang, J. (2024). Effect of water pressure on time-dependent permeability characteristics of sand conditioned with foam and bentonite slurry. Canadian Geotechnical Journal. 62: 1-14. DOI: 10.1139/cgj-2023-0497  
+[5]	Medici, G., ___Ling, F.___, Shang, J. (2023). Review of discrete fracture network characterization for geothermal energy extraction. Frontiers in Earth Science. 11: 1328397. DOI: 10.3389/feart.2023.1328397  
+[6]	Feng, Z., Wang, S., Qu, T., Zheng, X., ___Ling, F___. (2024). Experimental study on workability and permeability of sandy soils conditioned with thickened foam. Journal of Rock Mechanics and Geotechnical Engineering. 16(2): 532-544. DOI: 10.1016/j.jrmge.2023.05.015  
+[7]	Wang, S., Zhong, J., Pan, Q., Qu, T., ___Ling, F___. (2023). Shear behavior of foam-conditioned gravelly sands: Insights from pressurized vane shear tests. Geomechanics and Engineering. 34(6): 637-648. DOI: 10.12989/gae.2023.34.6.637  
+[8]	Kong, L., Shang, J., Gamage, R. P., Li, B. Q., Song, Y., Cai, W., ___Ling, F___. (2024). Grain-based DEM modelling of mechanical and coupled hydro-mechanical behaviour of crystalline rocks. Engineering Geology, 107649. DOI: 10.1016/j.enggeo.2024.107649  
 
 Honours and Awards 
 ------
