@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a third-year PhD student at The University of Manchester (UoM), UK, specializing in rock physics and fracture mechanics. My research combines numerical modeling and laboratory experiments to investigate how mineral veins and sawcut faults influence the dynamic response of fluid-driven ruptures, from hydraulic fractures to fluid-induced fault slip.
-Before joining UoM, I earned a BEng from Jilin University and an MEng from Central South University, China. During my master's studies, I explored soil mechanics, focusing on the permeability characteristics of sand conditioned with foam bubbles and bentonite slurry.
+Before joining UoM, I earned a BEng from Jilin University (2015-2019) and an MEng from Central South University, China (2019-2022). During my master's studies, I explored soil mechanics, focusing on the permeability characteristics of sand conditioned with foam bubbles and bentonite slurry.
 
 Professional Appointments 
 ======
@@ -37,13 +37,13 @@ Publications(*: Corresponding Author)
 
 Honours and Awards 
 ------
-2023              Jim Gatheral Travel Scholarship at University of Glasgow  
-2022              Outstanding graduates at Central South University  
-2022/2020         First-class scholarship at Central South University  
-2021              Outstanding graduate student at Central South University  
-2021              Second-class scholarship at Central South University  
-2020              First-class scholarship at Central South University  
-2018/2017         Outstanding undergraduate student at Jilin University  
-2018/2017         Second-class scholarship at Jilin University  
-2018/2017/2016    Excellent student leader at Jilin University  
-2016              Third-class scholarship at Jilin University  
+2023--------------Jim Gatheral Travel Scholarship at University of Glasgow  
+2022--------------Outstanding graduates at Central South University  
+2022/2020---------First-class scholarship at Central South University  
+2021--------------Outstanding graduate student at Central South University  
+2021--------------Second-class scholarship at Central South University  
+2020--------------First-class scholarship at Central South University  
+2018/2017---------Outstanding undergraduate student at Jilin University  
+2018/2017---------Second-class scholarship at Jilin University  
+2018/2017/2016----Excellent student leader at Jilin University  
+2016--------------Third-class scholarship at Jilin University  
