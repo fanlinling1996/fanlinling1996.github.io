@@ -12,14 +12,14 @@ Before joining UoM, I earned a BEng from Jilin University and an MEng from Centr
 
 Professional Appointments 
 ======
-* 2024-       Graduate Teaching Assistant
-              The University of Manchester, UK
-              CIVL10212; CIVL12201; CIVL31001; CIVL35001
-* 2023-2024   Visiting Researcher
-              GFZ Helmholtz Centre for Geosciences, Germany
-* 2022-2023   Graduate Teaching Assistant
-              University of Glasgow, UK
-              ENG2080; ENG4072
+* 2024-       Graduate Teaching Assistant  
+              The University of Manchester, UK  
+              CIVL10212; CIVL12201; CIVL31001; CIVL35001  
+* 2023-2024   Visiting Researcher  
+              GFZ Helmholtz Centre for Geosciences, Germany  
+* 2022-2023   Graduate Teaching Assistant  
+              University of Glasgow, UK  
+              ENG2080; ENG4072  
 
 Publications(*: Corresponding Author) 
 ======
