@@ -13,7 +13,7 @@ Before joining UoM, I earned a BEng from [Jilin University](https://en.wikipedia
 Educational background  
 ======
 <div style="display: flex; align-items: baseline;">
-  <div style="min-width: 100px; font-weight: bold;">2022</div>
+  <div style="min-width: 100px; font-weight: bold;">2022–</div>
   <div>PhD in Civil Engineering, The University of Manchester, UK</div>
 </div>
 <div style="display: flex; align-items: baseline;">
