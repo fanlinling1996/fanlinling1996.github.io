@@ -22,7 +22,7 @@ Educational background
 </div>
 <div style="display: flex; align-items: baseline; margin-bottom: 20px;">
   <div style="min-width: 100px; font-weight: bold;">2015–2019</div>
-  <div>BEng in Civil Engineering / B.A. in German, Jilin University, China</div>
+  <div>BEng in Civil Engineering / (Min) B.A. in German, Jilin University, China</div>
 </div>
 
 Professional Appointments 
