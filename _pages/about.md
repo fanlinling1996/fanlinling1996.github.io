@@ -10,6 +10,12 @@ redirect_from:
 I am a third-year PhD student at The University of Manchester (UoM), UK, specializing in rock physics and fracture mechanics. My research combines numerical modeling and laboratory experiments to investigate how mineral veins and sawcut faults influence the dynamic response of fluid-driven ruptures, from hydraulic fractures to fluid-induced fault slip.   
 Before joining UoM, I earned a BEng from Jilin University (2015-2019) and an MEng from Central South University, China (2019-2022). During my master's studies, I explored soil mechanics, focusing on the permeability characteristics of sand conditioned with foam bubbles and bentonite slurry.
 
+Educational background  
+======
+* **2022-**  PhD in Civil Engineering at The University of Manchester, UK  
+* **2023-2024**  MEng in Civil Engineering at Central South University, China   
+* **2022-2023**  BEng in Civil Engineering at Jilin University, China;  B.A. in German at Jilin University, China       
+
 Professional Appointments 
 ======
 * **2024-**   
