@@ -37,16 +37,6 @@ Publications(*: Corresponding Author)
 
 Honours and Awards 
 ------
-| 2022   | Jim Gatheral Travel Scholarship at University of Glasgow                          |   
-| 2022  ` ` | Outstanding graduates at Central South University                          |   
-| 2022/2020   | First-class scholarship at Central South University                          |   
-| 2021   | Outstanding graduate student at Central South University                         |   
-| 2021   | Second-class scholarship at Central South University                          |   
-| 2018/2017   | Outstanding undergraduate student at Jilin University                          |   
-| 2018/2017   | Second-class scholarship at Jilin University                          |   
-| 2018/2017/2016   | Excellent student leader at Jilin University                           |   
-| 2016   | Third-class scholarship at Jilin University                          |   
-
 [1]  Jim Gatheral Travel Scholarship at University of Glasgow (2023)     
 [2]  Outstanding graduates at Central South University (2022)     
 [3]  First-class scholarship at Central South University (2022/2020)  
