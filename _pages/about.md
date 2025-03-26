@@ -13,15 +13,15 @@ Before joining UoM, I earned a BEng from Jilin University (2015-2019) and an MEn
 Educational background  
 ======
 <div style="display: flex; align-items: baseline;">
-  <div style="min-width: 100px; font-weight: bold;">* 2022</div>
+  <div style="min-width: 100px; font-weight: bold;">2022</div>
   <div>PhD in Civil Engineering, The University of Manchester, UK</div>
 </div>
 <div style="display: flex; align-items: baseline;">
-  <div style="min-width: 100px; font-weight: bold;">* 2019–2022</div>
+  <div style="min-width: 100px; font-weight: bold;">2019–2022</div>
   <div>MEng in Civil Engineering, Central South University, China</div>
 </div>
 <div style="display: flex; align-items: baseline;">
-  <div style="min-width: 100px; font-weight: bold;">* 2015–2019</div>
+  <div style="min-width: 100px; font-weight: bold;">2015–2019</div>
   <div>BEng in Civil Engineering / B.A. in German, Jilin University, China</div>
 </div> 
 
@@ -41,8 +41,8 @@ Professional Appointments
 
 Publications (*: Corresponding Author) 
 ======
-[1]	___Ling, F.___, Kong, L., Shang, J. (2025). Influence of Mineral Veins on Hydraulic Fracture Propagation. Rock Mechanics and Rock Engineering. DOI: 10.1007/s00603-025-04402-1  
-[2]	___Ling, F.___, Wang, S., Hu, Q., Huang, S., Feng, Z. (2022). Effect of bentonite slurry on the function of foam for changing the permeability characteristics of sand under high hydraulic gradients. Canadian Geotechnical Journal. 59(7): 1061-1070. DOI: 10.1139/cgj-2021-0196  
+[1]	___Ling, F.___, Kong, L., Shang, J. (2025). Influence of Mineral Veins on Hydraulic Fracture Propagation. Rock Mechanics and Rock Engineering. [DOI] (https://link.springer.com/article/10.1007/s00603-025-04402-1)    
+[2]	___Ling, F.___, Wang, S., Hu, Q., Huang, S., Feng, Z. (2022). Effect of bentonite slurry on the function of foam for changing the permeability characteristics of sand under high hydraulic gradients. Canadian Geotechnical Journal. 59(7): 1061-1070.[DOI] (https://cdnsciencepub.com/doi/10.1139/cgj-2021-0196)    
 [3]	___Ling, F.___, Wang, S., Zheng, X., Zhong, J., Chen, Y. (2024). A Novel Calculation Model for the Permeability Coefficient of Soils Conditioned with Foam and Bentonite Slurry. KSCE Journal of Civil Engineering. 28(5): 2053-2065. DOI: 10.1007/s12205-024-2017-0  
 [4]	Wang, S., ___Ling, F.*___, Hu, Q., Qu, T., Shang, J. (2024). Effect of water pressure on time-dependent permeability characteristics of sand conditioned with foam and bentonite slurry. Canadian Geotechnical Journal. 62: 1-14. DOI: 10.1139/cgj-2023-0497  
 [5]	Medici, G., ___Ling, F.___, Shang, J. (2023). Review of discrete fracture network characterization for geothermal energy extraction. Frontiers in Earth Science. 11: 1328397. DOI: 10.3389/feart.2023.1328397  
