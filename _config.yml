@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Fanlin's homepage"
+title                    : "Fanlin's Homepage"
 title_separator          : "-"
 name                     : &name "Fanlin Ling"
 description              : &description "personal description"
