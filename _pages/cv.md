@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Civil Engineering at The University of Manchester, UK
-* MEng. in Civil Engineering at Central South University, China
-* BEng. in Civil Engineering at Jilin University, China
-* B.A. in German at Jilin University, China
+* Ph.D in Civil Engineering at The University of Manchester, UK  
+* MEng. in Civil Engineering at Central South University, China  
+* BEng. in Civil Engineering at Jilin University, China  
+* B.A. in German at Jilin University, China  
 #
 #Work experience
 #======
