@@ -30,7 +30,7 @@ Professional Appointments
   * University of Glasgow, UK  
   * _ENG2080; ENG4072_   
 
-Publications(*: Corresponding Author) 
+Publications (*: Corresponding Author) 
 ======
 [1]	___Ling, F.___, Kong, L., Shang, J. (2025). Influence of Mineral Veins on Hydraulic Fracture Propagation. Rock Mechanics and Rock Engineering. DOI: 10.1007/s00603-025-04402-1  
 [2]	___Ling, F.___, Wang, S., Hu, Q., Huang, S., Feng, Z. (2022). Effect of bentonite slurry on the function of foam for changing the permeability characteristics of sand under high hydraulic gradients. Canadian Geotechnical Journal. 59(7): 1061-1070. DOI: 10.1139/cgj-2021-0196  
