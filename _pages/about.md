@@ -34,8 +34,7 @@ Educational background
 
 * **2022-**       PhD in Civil Engineering at The University of Manchester, UK  
 * **2019-2022**   MEng in Civil Engineering at Central South University, China   
-* **2015-2019**   BEng in Civil Engineering at Jilin University, China;  
-                  B.A. in German at Jilin University, China       
+* **2015-2019**   BEng in Civil Engineering / B.A. in Germanat at Jilin University, China;      
 
 Professional Appointments 
 ======
