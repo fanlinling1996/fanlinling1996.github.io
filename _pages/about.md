@@ -35,8 +35,8 @@ Publications(*: Corresponding Author)
 [7]	Wang, S., Zhong, J., Pan, Q., Qu, T., ___Ling, F___. (2023). Shear behavior of foam-conditioned gravelly sands: Insights from pressurized vane shear tests. Geomechanics and Engineering. 34(6): 637-648. DOI: 10.12989/gae.2023.34.6.637  
 [8]	Kong, L., Shang, J., Gamage, R. P., Li, B. Q., Song, Y., Cai, W., ___Ling, F___. (2024). Grain-based DEM modelling of mechanical and coupled hydro-mechanical behaviour of crystalline rocks. Engineering Geology, 107649. DOI: 10.1016/j.enggeo.2024.107649  
 
-Honours and Awards 
-------
+Honours and Awards   
+======
 [1]  Jim Gatheral Travel Scholarship at University of Glasgow (2023)     
 [2]  Outstanding graduates at Central South University (2022)     
 [3]  First-class scholarship at Central South University (2022/2020)  
