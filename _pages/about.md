@@ -25,6 +25,7 @@ Educational background
   <div>BEng in Civil Engineering / B.A. in German, Jilin University, China</div>
 </div> 
 
+
 Professional Appointments 
 ======
 * **2024-**   
