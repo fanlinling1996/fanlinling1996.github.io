@@ -12,6 +12,13 @@ Before joining UoM, I earned a BEng from Jilin University (2015-2019) and an MEn
 
 Educational background  
 ======
+<pre>
+2022        PhD in Civil Engineering, The University of Manchester, UK
+2019-2022   MEng in Civil Engineering, Central South University, China
+2015-2019   BEng in Civil Engineering, Jilin University, China
+2015-2019   B.A. in German, Jilin University, China
+</pre>
+
 * **2022-**       PhD in Civil Engineering at The University of Manchester, UK  
 * **2019-2022**   MEng in Civil Engineering at Central South University, China   
 * **2015-2019**   BEng in Civil Engineering at Jilin University, China;  
