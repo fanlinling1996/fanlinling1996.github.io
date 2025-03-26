@@ -20,10 +20,13 @@ Educational background
   <div style="min-width: 100px; font-weight: bold;">2019–2022</div>
   <div>MEng in Civil Engineering, Central South University, China</div>
 </div>
-<div style="display: flex; align-items: baseline;">
+<div style="display: flex; align-items: baseline; margin-bottom: 20px;">
   <div style="min-width: 100px; font-weight: bold;">2015–2019</div>
   <div>BEng in Civil Engineering / B.A. in German, Jilin University, China</div>
-</div>    
+</div>
+
+<h2 style="margin-bottom: 20px;">Professional Appointments</h2>
+<!-- Professional Appointments content --> 
 
 Professional Appointments 
 ======
