@@ -36,8 +36,8 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=Ox-BXD8AAAAJ&hl=en"
   impactstory      : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Fanlin-Ling?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/fanlin-ling-115248232/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
