@@ -10,6 +10,18 @@ redirect_from:
 I am a third-year PhD student at <a href="https://www.manchester.ac.uk/" style="text-decoration: none;" target="_blank">The University of Manchester (UoM)</a>, UK, specializing in rock physics and fracture mechanics. My research combines numerical modeling and laboratory experiments to investigate how mineral veins and sawcut faults influence the dynamic response of fluid-driven ruptures, from hydraulic fractures to fluid-induced fault slip.   
 Before joining UoM, I earned an MEng from <a href="https://en.wikipedia.org/wiki/Central_South_University" style="text-decoration: none;" target="_blank">Central South University</a>, China (2019-2022) and a BEng from <a href="https://en.wikipedia.org/wiki/Jilin University" style="text-decoration: none;" target="_blank">Jilin University</a> (2015-2019). I explored tunnelling and soil mechanics during this journey, focusing on the permeability characteristics of sand conditioned with foam bubbles and bentonite slurry.
 
+Professional Appointments 
+======
+* **2024-**   
+  * Graduate Teaching Assistant (_CIVL10212; CIVL12201; CIVL31001; CIVL35001_)  
+  * The University of Manchester, UK  
+* **2023-2024**       
+  * Visiting Researcher  
+  * GFZ Helmholtz Centre for Geosciences, Germany  
+* **2022-2023**     
+  * Graduate Teaching Assistant (_ENG2080; ENG4072_)  
+  * University of Glasgow, UK  
+
 Educational Background  
 ======
 <div style="display: flex; align-items: baseline;">
@@ -24,18 +36,6 @@ Educational Background
   <div style="min-width: 100px; font-weight: bold;">2015–2019</div>
   <div>BEng in Civil Engineering / (Min) B.A. in German, Jilin University, China</div>
 </div>
-
-Professional Appointments 
-======
-* **2024-**   
-  * Graduate Teaching Assistant (_CIVL10212; CIVL12201; CIVL31001; CIVL35001_)  
-  * The University of Manchester, UK  
-* **2023-2024**       
-  * Visiting Researcher  
-  * GFZ Helmholtz Centre for Geosciences, Germany  
-* **2022-2023**     
-  * Graduate Teaching Assistant (_ENG2080; ENG4072_)  
-  * University of Glasgow, UK  
 
 Publications (*: Corresponding Author) 
 ======
