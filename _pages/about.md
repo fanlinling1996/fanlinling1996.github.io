@@ -28,16 +28,14 @@ Educational Background
 Professional Appointments 
 ======
 * **2024-**   
-  * Graduate Teaching Assistant  
+  * Graduate Teaching Assistant (_CIVL10212; CIVL12201; CIVL31001; CIVL35001_)  
   * The University of Manchester, UK  
-  * _CIVL10212; CIVL12201; CIVL31001; CIVL35001_  
 * **2023-2024**       
   * Visiting Researcher  
   * GFZ Helmholtz Centre for Geosciences, Germany  
 * **2022-2023**     
-  * Graduate Teaching Assistant  
+  * Graduate Teaching Assistant (_ENG2080; ENG4072_)  
   * University of Glasgow, UK  
-  * _ENG2080; ENG4072_   
 
 Publications (*: Corresponding Author) 
 ======
