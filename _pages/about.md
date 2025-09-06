@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD candidate at <a href="https://www.manchester.ac.uk/" style="text-decoration: none;" target="_blank">The University of Manchester (UoM)</a>, UK, specializing in rock physics and fracture mechanics. My research integrates numerical modeling and laboratory experiments to examine how mineral veins and mineralized faults influence the dynamic response of fluid-driven ruptures, ranging from hydraulic fractures propagation to injection-induced fault slip.   
+I am a final-year PhD candidate at <a href="https://www.manchester.ac.uk/" style="text-decoration: none;" target="_blank">The University of Manchester (UoM)</a>, UK, specializing in rock physics and fracture mechanics. My research integrates numerical modeling and laboratory experiments to examine how mineral veins and mineralized faults influence the dynamic response of fluid-driven ruptures, ranging from hydraulic fracture propagation to injection-induced fault slip.   
 Before joining UoM, I earned an MEng from <a href="https://en.wikipedia.org/wiki/Central_South_University" style="text-decoration: none;" target="_blank">Central South University</a>, China (2019-2022), and a BEng from <a href="https://en.wikipedia.org/wiki/Jilin University" style="text-decoration: none;" target="_blank">Jilin University</a> (2015-2019). During my master’s studies, I investigated tunnelling and soil mechanics, focusing on the permeability of sand conditioned with foam bubbles and bentonite slurry.
 
 Professional Appointments 
