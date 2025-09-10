@@ -60,3 +60,6 @@ Honours and Awards
 [7]  Second-class scholarship at Jilin University (2018/2017)     
 [8]  Excellent student leader at Jilin University (2018/2017/2016)    
 [9] Third-class scholarship at Jilin University (2016)    
+
+
+![Page Views](https://visitor-badge.laobi.icu/badge?page_id=fanlinling1996.fanlinling1996)
