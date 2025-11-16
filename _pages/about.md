@@ -39,27 +39,31 @@ Educational Background
 
 Publications (*: Corresponding Author) 
 ======
-[1]	___Ling, F.___, Kong, L., Yang, S., Shang, J. (2025). Reactivation of heterogeneous shear veins during reservoir stimulation: Fracture interaction, stress perturbation, and induced seismicity. Computers and Geotechnics, 188, 107576. <a href="https://www.sciencedirect.com/science/article/pii/S0266352X25005257" target="_blank">[DOI]</a>   
-[2]	___Ling, F.___, Kong, L., Shang, J. (2025). Influence of Mineral Veins on Hydraulic Fracture Propagation. Rock Mechanics and Rock Engineering, 58: 5023-5045. <a href="https://link.springer.com/article/10.1007/s00603-025-04402-1" target="_blank">[DOI]</a>   
-[3]	___Ling, F.___, Wang, S., Hu, Q., Huang, S., Feng, Z. (2022). Effect of bentonite slurry on the function of foam for changing the permeability characteristics of sand under high hydraulic gradients. Canadian Geotechnical Journal, 59(7): 1061-1070. <a href="https://cdnsciencepub.com/doi/10.1139/cgj-2021-0196" target="_blank">[DOI]</a>          
-[4]	___Ling, F.___, Wang, S., Zheng, X., Zhong, J., Chen, Y. (2024). A Novel Calculation Model for the Permeability Coefficient of Soils Conditioned with Foam and Bentonite Slurry. KSCE Journal of Civil Engineering, 28(5): 2053-2065. <a href="https://link.springer.com/article/10.1007/s12205-024-2017-0" target="_blank">[DOI]</a>    
-[5]	Wang, S., ___Ling, F.*___, Hu, Q., Qu, T., Shang, J. (2024). Effect of water pressure on time-dependent permeability characteristics of sand conditioned with foam and bentonite slurry. Canadian Geotechnical Journal, 62: 1-14. <a href="https://cdnsciencepub.com/doi/10.1139/cgj-2023-0497" target="_blank">[DOI]</a>        
-[6]	Medici, G., ___Ling, F.___, Shang, J. (2023). Review of discrete fracture network characterization for geothermal energy extraction. Frontiers in Earth Science, 11: 1328397. <a href="https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2023.1328397/full" target="_blank">[DOI]</a>         
-[7]	Feng, Z., Wang, S., Qu, T., Zheng, X., ___Ling, F___. (2024). Experimental study on workability and permeability of sandy soils conditioned with thickened foam. Journal of Rock Mechanics and Geotechnical Engineering, 16(2): 532-544. <a href="https://www.sciencedirect.com/science/article/pii/S1674775523002147" target="_blank">[DOI]</a>         
-[8]	Wang, S., Zhong, J., Pan, Q., Qu, T., ___Ling, F___. (2023). Shear behavior of foam-conditioned gravelly sands: Insights from pressurized vane shear tests. Geomechanics and Engineering, 34(6): 637-648.  <a href="https://www.techno-press.org/content/?page=article&journal=gae&volume=34&num=6&ordernum=4" target="_blank">[DOI]</a>           
-[9]	Kong, L., Shang, J., Gamage, R. P., Li, B. Q., Song, Y., Cai, W., ___Ling, F___. (2024). Grain-based DEM modelling of mechanical and coupled hydro-mechanical behaviour of crystalline rocks. Engineering Geology, 107649.   <a href="https://www.sciencedirect.com/science/article/pii/S0013795224002497" target="_blank">[DOI]</a>       
+* **Dominant work**     
+[5]	___Ling, F.___, Kong, L., Yang, S., Shang, J. (2025). Reactivation of heterogeneous shear veins during reservoir stimulation: Fracture interaction, stress perturbation, and induced seismicity. Computers and Geotechnics, 188, 107576. <a href="https://www.sciencedirect.com/science/article/pii/S0266352X25005257" target="_blank">[DOI]</a>   
+[4]	___Ling, F.___, Kong, L., Shang, J. (2025). Influence of Mineral Veins on Hydraulic Fracture Propagation. Rock Mechanics and Rock Engineering, 58: 5023-5045. <a href="https://link.springer.com/article/10.1007/s00603-025-04402-1" target="_blank">[DOI]</a>   
+[3] Wang, S., ___Ling, F.*___, Hu, Q., Qu, T., Shang, J. (2024). Effect of water pressure on time-dependent permeability characteristics of sand conditioned with foam and bentonite slurry. Canadian Geotechnical Journal, 62: 1-14. <a href="https://cdnsciencepub.com/doi/10.1139/cgj-2023-0497" target="_blank">[DOI]</a>    
+[2]	___Ling, F.___, Wang, S., Zheng, X., Zhong, J., Chen, Y. (2024). A Novel Calculation Model for the Permeability Coefficient of Soils Conditioned with Foam and Bentonite Slurry. KSCE Journal of Civil Engineering, 28(5): 2053-2065. <a href="https://link.springer.com/article/10.1007/s12205-024-2017-0" target="_blank">[DOI]</a>    
+[1]	___Ling, F.___, Wang, S., Hu, Q., Huang, S., Feng, Z. (2022). Effect of bentonite slurry on the function of foam for changing the permeability characteristics of sand under high hydraulic gradients. Canadian Geotechnical Journal, 59(7): 1061-1070. <a href="https://cdnsciencepub.com/doi/10.1139/cgj-2021-0196" target="_blank">[DOI]</a>     
+     
+* **Participating work**           
+[4]	Kong, L., Shang, J., Gamage, R. P., Li, B. Q., Song, Y., Cai, W., ___Ling, F___. (2024). Grain-based DEM modelling of mechanical and coupled hydro-mechanical behaviour of crystalline rocks. Engineering Geology, 107649.   <a href="https://www.sciencedirect.com/science/article/pii/S0013795224002497" target="_blank">[DOI]</a>         
+[3]	Feng, Z., Wang, S., Qu, T., Zheng, X., ___Ling, F___. (2024). Experimental study on workability and permeability of sandy soils conditioned with thickened foam. Journal of Rock Mechanics and Geotechnical Engineering, 16(2): 532-544. <a href="https://www.sciencedirect.com/science/article/pii/S1674775523002147" target="_blank">[DOI]</a>         
+[2]	Medici, G., ___Ling, F.___, Shang, J. (2023). Review of discrete fracture network characterization for geothermal energy extraction. Frontiers in Earth Science, 11: 1328397. <a href="https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2023.1328397/full" target="_blank">[DOI]</a>             
+[1] Wang, S., Zhong, J., Pan, Q., Qu, T., ___Ling, F___. (2023). Shear behavior of foam-conditioned gravelly sands: Insights from pressurized vane shear tests. Geomechanics and Engineering, 34(6): 637-648.  <a href="https://www.techno-press.org/content/?page=article&journal=gae&volume=34&num=6&ordernum=4" target="_blank">[DOI]</a>   
 
 Honours and Awards   
 ======
-[1]  Jim Gatheral Travel Scholarship at University of Glasgow (2023)     
-[2]  Outstanding graduates at Central South University (2022)     
-[3]  First-class scholarship at Central South University (2022/2020)  
-[4]  Outstanding graduate student at Central South University (2021)     
+[10] Great Britain-China Educational Trust (GBCET) Award (2025)     
+[9]  Jim Gatheral Travel Scholarship at University of Glasgow (Sole award holder in 2023)     
+[8]  Outstanding graduates at Central South University (2022)     
+[7]  First-class scholarship at Central South University (2022/2020)  
+[6]  Outstanding graduate student at Central South University (2021)     
 [5]  Second-class scholarship at Central South University (2021)        
-[6]  Outstanding undergraduate student at Jilin University (2018/2017)     
-[7]  Second-class scholarship at Jilin University (2018/2017)     
-[8]  Excellent student leader at Jilin University (2018/2017/2016)    
-[9] Third-class scholarship at Jilin University (2016)    
+[4]  Outstanding undergraduate student at Jilin University (2018/2017)     
+[3]  Second-class scholarship at Jilin University (2018/2017)     
+[2]  Excellent student leader at Jilin University (2018/2017/2016)    
+[1]  Third-class scholarship at Jilin University (2016)    
 
 
 ![Page Views](https://visitor-badge.laobi.icu/badge?page_id=fanlinling1996.fanlinling1996)
