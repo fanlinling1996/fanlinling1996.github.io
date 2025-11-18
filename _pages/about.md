@@ -39,8 +39,8 @@ Educational Background
 
 Publications
 ======
-* **Dominant work (First author / Corresponding author)**      
-[5]	___Ling, F.___, Kong, L., Yang, S., Shang, J. (2025). Reactivation of heterogeneous shear veins during reservoir stimulation: Fracture interaction, stress perturbation, and induced seismicity. Computers and Geotechnics, 188, 107576. <a href="https://www.sciencedirect.com/science/article/pii/S0266352X25005257" target="_blank">[DOI]</a>   
+* **Dominant work (First author / Corresponding author)**       
+[5]	___Ling, F.___, Kong, L., Yang, S., Shang, J. (2025). Reactivation of heterogeneous shear veins during reservoir stimulation: Fracture interaction, stress perturbation, and induced seismicity. <span style="font-family:'Times New Roman', serif;">Computers and Geotechnics</span>, 188, 107576. <a href="https://www.sciencedirect.com/science/article/pii/S0266352X25005257" target="_blank">[DOI]</a>   
 [4]	___Ling, F.___, Kong, L., Shang, J. (2025). Influence of Mineral Veins on Hydraulic Fracture Propagation. Rock Mechanics and Rock Engineering, 58: 5023-5045. <a href="https://link.springer.com/article/10.1007/s00603-025-04402-1" target="_blank">[DOI]</a>   
 [3] Wang, S., ___Ling, F.*___, Hu, Q., Qu, T., Shang, J. (2024). Effect of water pressure on time-dependent permeability characteristics of sand conditioned with foam and bentonite slurry. Canadian Geotechnical Journal, 62: 1-14. <a href="https://cdnsciencepub.com/doi/10.1139/cgj-2023-0497" target="_blank">[DOI]</a>    
 [2]	___Ling, F.___, Wang, S., Zheng, X., Zhong, J., Chen, Y. (2024). A Novel Calculation Model for the Permeability Coefficient of Soils Conditioned with Foam and Bentonite Slurry. KSCE Journal of Civil Engineering, 28(5): 2053-2065. <a href="https://link.springer.com/article/10.1007/s12205-024-2017-0" target="_blank">[DOI]</a>    
