@@ -34,7 +34,7 @@ Educational Background
 </div>
 <div style="display: flex; align-items: baseline; margin-bottom: 20px;">
   <div style="min-width: 100px; font-weight: bold;">2015–2019</div>
-  <div>BEng in Civil Engineering / (Min) B.A. in German, Jilin University, China</div>
+  <div>BEng in Civil Engineering & (Min) B.A. in German, Jilin University, China</div>
 </div>
 
 Publications (*: Corresponding Author) 
@@ -59,12 +59,12 @@ Honours and Awards
 [10] First Place Poster Prize at The University of Manchester (2025)    
 [09] Jim Gatheral Travel Scholarship at University of Glasgow (Sole award holder in 2023)     
 [08] Outstanding graduates at Central South University (2022)     
-[07] First-class scholarship at Central South University (2022/2020)  
+[07] First-class scholarship at Central South University (2022&2020)  
 [06] Outstanding graduate student at Central South University (2021)     
 [05] Second-class scholarship at Central South University (2021)        
-[04] Outstanding undergraduate student at Jilin University (2018/2017)     
-[03] Second-class scholarship at Jilin University (2018/2017)     
-[02] Excellent student leader at Jilin University (2018/2017/2016)    
+[04] Outstanding undergraduate student at Jilin University (2018&2017)     
+[03] Second-class scholarship at Jilin University (2018&2017)     
+[02] Excellent student leader at Jilin University (2018&2017&2016)    
 [01] Third-class scholarship at Jilin University (2016)    
 
 
