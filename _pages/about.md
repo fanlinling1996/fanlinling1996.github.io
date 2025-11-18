@@ -54,7 +54,9 @@ Publications (*: Corresponding Author)
 
 Honours and Awards   
 ======
-[10] Great Britain-China Educational Trust (GBCET) Award (2025)     
+[12] Doctoral Training and Development Support Fund at The University of Manchester (2025)   
+[11] Great Britain-China Educational Trust (GBCET) Award (2025)     
+[10] First Place Poster Prize at The University of Manchester (2025)    
 [09] Jim Gatheral Travel Scholarship at University of Glasgow (Sole award holder in 2023)     
 [08] Outstanding graduates at Central South University (2022)     
 [07] First-class scholarship at Central South University (2022/2020)  
