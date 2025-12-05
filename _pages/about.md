@@ -54,6 +54,7 @@ Publications
 
 Honours and Awards   
 ======
+[13] British Geotechnical Association (BGA) Knowledge Support Fund (2025)     
 [12] Doctoral Training and Development Support Fund at The University of Manchester (2025)   
 [11] Great Britain-China Educational Trust (GBCET) Award (2025)     
 [10] First Place Poster Prize at The University of Manchester (2025)    
