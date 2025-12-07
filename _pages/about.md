@@ -40,6 +40,8 @@ Educational Background
 Publications
 ======
 * **Dominant work (First author / Corresponding author)**       
+[7]	___Ling, F.___, Duan, K., & Shang, J. (2026). Hydro-mechanical behavior of mineralized faults in granite during fluid injection: Insights from triaxial shear-flow experiments. Engineering Geology. <a href="https://link.springer.com/article/10.1029/2025GL117780" target="_blank">[DOI]</a>  
+[6]	___Ling, F.___, Duan, K., Sone, H., & Shang, J. (2025). Mineralogy controls on injection-induced fault slip. Geophysical Research Letters, 52(23), e2025GL117780. <a href="https://link.springer.com/article/10.1029/2025GL117780" target="_blank">[DOI]</a>   
 [5]	___Ling, F.___, Kong, L., Yang, S., & Shang, J. (2025). Reactivation of heterogeneous shear veins during reservoir stimulation: Fracture interaction, stress perturbation, and induced seismicity. <span style="font-family:'Times New Roman', serif;">Computers and Geotechnics</span>, 188, 107576. <a href="https://www.sciencedirect.com/science/article/pii/S0266352X25005257" target="_blank">[DOI]</a>   
 [4]	___Ling, F.___, Kong, L., & Shang, J. (2025). Influence of Mineral Veins on Hydraulic Fracture Propagation. Rock Mechanics and Rock Engineering, 58: 5023-5045. <a href="https://link.springer.com/article/10.1007/s00603-025-04402-1" target="_blank">[DOI]</a>   
 [3] Wang, S., ___Ling, F.*___, Hu, Q., Qu, T., & Shang, J. (2024). Effect of water pressure on time-dependent permeability characteristics of sand conditioned with foam and bentonite slurry. Canadian Geotechnical Journal, 62: 1-14. <a href="https://cdnsciencepub.com/doi/10.1139/cgj-2023-0497" target="_blank">[DOI]</a>    
