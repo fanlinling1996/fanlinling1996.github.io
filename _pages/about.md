@@ -39,7 +39,7 @@ Educational Background
 
 Publications
 ======
-* **Dominant work (First author / *Corresponding author)**       
+* **Dominant work (First author / \*Corresponding author)**       
 [7]	___Ling, F.___, Duan, K., & Shang, J. (2026). Hydro-mechanical behavior of mineralized faults in granite during fluid injection: Insights from triaxial shear-flow experiments. Engineering Geology, 361, 108499. <a href="https://doi.org/10.1016/j.enggeo.2025.108499" target="_blank">[DOI]</a>  
 [6]	___Ling, F.___, Duan, K., Sone, H., & Shang, J. (2025). Mineralogy controls on injection-induced fault slip. Geophysical Research Letters, 52, e2025GL117780. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117780" target="_blank">[DOI]</a>   
 [5]	___Ling, F.___, Kong, L., Yang, S., & Shang, J. (2025). Reactivation of heterogeneous shear veins during reservoir stimulation: Fracture interaction, stress perturbation, and induced seismicity. Computers and Geotechnics, 188, 107576. <a href="https://www.sciencedirect.com/science/article/pii/S0266352X25005257" target="_blank">[DOI]</a>   
