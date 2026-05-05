@@ -25,7 +25,7 @@ Professional Appointments
 Educational Background  
 ======
 <div style="display: flex; align-items: baseline;">
-  <div style="min-width: 100px; font-weight: bold;">2022–</div>
+  <div style="min-width: 100px; font-weight: bold;">2022–2026</div>
   <div>PhD in Civil Engineering, The University of Manchester & University of Glasgow, UK</div>
 </div>
 <div style="display: flex; align-items: baseline;">
