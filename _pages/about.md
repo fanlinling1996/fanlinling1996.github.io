@@ -13,7 +13,7 @@ Before joining UoM, I earned an MEng from <a href="https://en.wikipedia.org/wiki
 Professional Appointments 
 ======
 * **2024-2026**   
-  * Graduate Teaching Assistant (_CIVL10212; CIVL12201; CIVL31001; CIVL35001_)  
+  * Graduate Teaching Assistant (_CIVL10212; CIVL12201; CIVL31001; CIVL35001; CIVL36002_)  
   * The University of Manchester, UK  
 * **2023-2024**       
   * Visiting Researcher  
@@ -50,6 +50,7 @@ Publications (\*Corresponding author)
 [1]	___Ling, F.___, Wang, S., Hu, Q., Huang, S., & Feng, Z. (2022). Effect of bentonite slurry on the function of foam for changing the permeability characteristics of sand under high hydraulic gradients. Canadian Geotechnical Journal, 59(7), 1061-1070. <a href="https://cdnsciencepub.com/doi/10.1139/cgj-2021-0196" target="_blank">[DOI]</a>     
      
 * **Participating work**           
+[5]	Yang, H., Liu, P., ___Ling, F.*___, Ji, F., & Chen, P. (2026). Intelligent Construction for Open‐Cut Tunnel: Insight from Mobile On‐Site Factory Method (MOFM). Advances in Civil Engineering, 2026(1), 9504977.   <a href="https://onlinelibrary.wiley.com/doi/10.1155/adce/9504977" target="_blank">[DOI]</a>   
 [4]	Kong, L., Shang, J., Gamage, R. P., Li, B. Q., Song, Y., Cai, W., & ___Ling, F___. (2024). Grain-based DEM modelling of mechanical and coupled hydro-mechanical behaviour of crystalline rocks. Engineering Geology, 339, 107649.   <a href="https://www.sciencedirect.com/science/article/pii/S0013795224002497" target="_blank">[DOI]</a>         
 [3]	Feng, Z., Wang, S., Qu, T., Zheng, X., & ___Ling, F___. (2024). Experimental study on workability and permeability of sandy soils conditioned with thickened foam. Journal of Rock Mechanics and Geotechnical Engineering, 16(2), 532-544. <a href="https://www.sciencedirect.com/science/article/pii/S1674775523002147" target="_blank">[DOI]</a>         
 [2]	Medici, G., ___Ling, F.___, & Shang, J. (2023). Review of discrete fracture network characterization for geothermal energy extraction. Frontiers in Earth Science, 11, 1328397. <a href="https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2023.1328397/full" target="_blank">[DOI]</a>             
@@ -57,6 +58,7 @@ Publications (\*Corresponding author)
 
 Honours and Awards   
 ======
+[14] Manchester Doctoral College Excellence Award Nomination at The University of Manchester (2026)
 [13] British Geotechnical Association (BGA) Knowledge Support Fund (2025)     
 [12] Doctoral Training and Development Support Fund at The University of Manchester (2025)   
 [11] Great Britain-China Educational Trust (GBCET) Award (2025)     
