@@ -58,7 +58,7 @@ Publications (\*Corresponding author)
 
 Honours and Awards   
 ======
-[14] Manchester Doctoral College Excellence Award Nomination at The University of Manchester (2026)
+[14] Manchester Doctoral College Excellence Award Nomination at The University of Manchester (2026)     
 [13] British Geotechnical Association (BGA) Knowledge Support Fund (2025)     
 [12] Doctoral Training and Development Support Fund at The University of Manchester (2025)   
 [11] Great Britain-China Educational Trust (GBCET) Award (2025)     
